@@ -12,6 +12,8 @@ Então será necessário uma chave de api para que seja possível a realização
 
 Após gerar a chave é só colar na atribuição da variável REACT_APP_API_KEY no arquivo .env que estará tudo certo.
 
+## Rodando o projeto
+
 ### `yarn start` ou `npm start`
 
 Rodando o comando acima é possível executar o projeto em local.
